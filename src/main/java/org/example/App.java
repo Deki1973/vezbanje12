@@ -35,7 +35,7 @@ public class App
         }
         System.out.println(map.get(g2).hashCode());
         System.out.println(map.get(g1).hashCode());
-
+        System.out.println("PROGRAM ZAVRSEN");
 
 
 
